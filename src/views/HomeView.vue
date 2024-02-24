@@ -38,7 +38,7 @@ const pickRandomColor = () => {
 .home-view {
   display: flex;
   gap: 24px;
-  margin: auto;
+  margin: 40px;
 
   &__item-cards {
     display: grid;
